@@ -55,7 +55,7 @@
     $('#frame').removeClass('display');
     $('#frame').addClass('display_none');
   });  
-  });   
+  });    
 
 
 
